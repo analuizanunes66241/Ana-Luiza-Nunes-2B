@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Ana Luiza Nunes Da Silva</h1>
+            <p>Email: analuizanunes66241@gmail.com | Telefone: (11) 981320087</p>
+            <p>Endereço: Rua Macajuba, 149, Cidade Sao Paulo, Estado SP, CEP 05748540</p>
+        </header>
+        <section>
+            <h2>Objetivo</h2>
+            <p>Descrever seu objetivo profissional aqui.</p>
+        </section> Aprender coisas novas 
+        <section> Ter um bom salário
+            <h2>Experiência Profissional</h2>
+            <div class="job">
+                <h3>Nome da Empresa</h3> Shoulder 
+                <p><strong>Cargo:Vendedora </strong> </p>
+                <p><strong>Período:De Julho de 2023 á Agosto de 2024 </strong> Mês/Ano - Mês/Ano</p>
+                <p><strong>Responsabilidades:</strong></p>
+                <ul>
+                    <li> Batia metas diariamente 1</li> 
+                    <li> Possuía meus próprios clientes fixos 2</li>
+                    <li> Cuidava do caixa da loja 3</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>Educação</h2>
+            <div class="education">
+                <h3> Miguel Munhoz Filho</h3>  
+                <p><strong>Curso: Técnico </strong> 
+                <p><strong>Período: Janeiro de 2014 á Dezembro de 2025 </strong> Mês/Ano - Mês/Ano</p>
+            </div>
+        </section>
+        <section>
+            <h2>Habilidades</h2>
+            <ul class="skills">
+                <li>Habilidade 1</li> Sou pontual.
+                <li>Habilidade 2</li> Tenho experiência em apoio de loja, estoque e vendas em geral.
+                <li>Habilidade 3</li> Tenho facilidade em aprender coisas novas.
+            </ul>
+        </section>
+        <section>
+            <h2>Projetos</h2>
+            <div class="projects">
+                <h3>https://app.netlify.com/teams/analuizanunes66241/settings/general</h3>
+                <p><strong>Descrição:Meu Currículo </strong> Descreva brevemente o projeto.</p> 
+                <p><strong>Link:</strong> <a href="http://www.projeto.com">www.projeto.com</a></p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
